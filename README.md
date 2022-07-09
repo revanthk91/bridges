@@ -3,4 +3,4 @@
 
 Outputs are .mov files
 
-https://www.youtube.com/watch?v=22IN8BCUS2c
+https://www.youtube.com/watch?v=knd50m4ZiSw
