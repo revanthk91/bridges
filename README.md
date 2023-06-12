@@ -1,5 +1,5 @@
 # bridges
-### A music visualizer based on Processing 3.0 ( JAVA )
+### A music visualizer based on Processing 3.0 in Java
 
 Outputs are .mov files
 
